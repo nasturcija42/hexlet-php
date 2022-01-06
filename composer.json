@@ -12,5 +12,7 @@
             "email": "nasturcija42@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.78"
+    }
 }
